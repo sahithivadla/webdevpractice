@@ -62,6 +62,7 @@ assert(lruobj.current_frequency(25))==0
 lruobj.put(25,"ss")
 # place the same element again and check for frequency . put will not change rfrequency get should change .
 assert(lruobj.current_frequency(25))==0
+print("ALL TESTCASES PASSED")
 
 
 
