@@ -20,7 +20,7 @@ a = {
 }
 b=
 {
-    name:"sahithi",
+    name:"sahithiv",
     marks:90,
     age:24
 }
